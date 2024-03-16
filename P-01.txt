@@ -1,0 +1,9 @@
+Algunas características importantes de las template strings son:
+
+Interpolación de expresiones: Las template strings permiten la inserción de valores de variables o expresiones dentro de una cadena utilizando la sintaxis `${...}`.
+
+Multilínea: Las template strings permiten la escritura de texto multilínea sin la necesidad de utilizar caracteres de escape como `\n`.
+
+Facilidad de uso: Las template strings hacen que sea más fácil y legible construir cadenas de texto complejas al permitir la concatenación de variables y expresiones de una manera más clara.
+
+Las template strings se diferencian de las comillas simples (') y las comillas dobles (") principalmente en su capacidad para la interpolación de expresiones y la facilidad de escritura de texto multilínea. Mientras que las comillas simples y dobles son adecuadas para cadenas de texto estáticas sin interpolación de expresiones, las template strings son más versátiles y poderosas al permitir la interpolación de expresiones y la escritura de texto multilínea de manera más natural.
